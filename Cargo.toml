@@ -1,0 +1,8 @@
+[package]
+name = "pikes_fixed_game"
+version = "0.1.0"
+authors = ["Diego Forero <gollum23@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+rand = "0.6.5"
